@@ -1,0 +1,187 @@
+{
+  "logs": [
+    {
+      "message": " ",
+      "attention": false,
+      "tech": "Eszter Tóth",
+      "date": "2024-02-20T04:55:55.494Z",
+      "id": 1
+    },
+    {
+      "message": " ",
+      "attention": false,
+      "tech": "Zsuzsanna Corridori",
+      "date": "2024-02-20T04:56:11.184Z",
+      "id": 2
+    },
+    {
+      "message": " ",
+      "attention": false,
+      "tech": "Csaba Kötcsei",
+      "date": "2024-02-20T04:56:28.522Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Szilveszter",
+      "lastName": "Spáth",
+      "id": 4
+    },
+    {
+      "firstName": "Beáta",
+      "lastName": "Bincze",
+      "id": 5
+    },
+    {
+      "firstName": "Jácinta",
+      "lastName": "Papp",
+      "id": 6
+    },
+    {
+      "firstName": "Zsolt",
+      "lastName": "Plázár",
+      "id": 7
+    },
+    {
+      "firstName": "Eszter",
+      "lastName": "Nagy",
+      "id": 8
+    },
+    {
+      "firstName": "Péter",
+      "lastName": "Temesváry",
+      "id": 9
+    },
+    {
+      "firstName": "Bence",
+      "lastName": "Ács",
+      "id": 10
+    },
+    {
+      "firstName": "Don",
+      "lastName": "LaRue",
+      "id": 11
+    },
+    {
+      "firstName": "Csaba",
+      "lastName": "Kötcsei",
+      "id": 12
+    },
+    {
+      "firstName": "Bencze",
+      "lastName": "Junior",
+      "id": 13
+    },
+    {
+      "firstName": "Bence",
+      "lastName": "N",
+      "id": 14
+    },
+    {
+      "firstName": "Tamás",
+      "lastName": "Molnár",
+      "id": 15
+    },
+    {
+      "firstName": "Júlia",
+      "lastName": "Andorka",
+      "id": 16
+    },
+    {
+      "firstName": "Szilvia",
+      "lastName": "Spáthné Sajben",
+      "id": 17
+    },
+    {
+      "firstName": "Henry",
+      "lastName": "Scallion",
+      "id": 18
+    },
+    {
+      "firstName": "Zoltán",
+      "lastName": "Hullai",
+      "id": 19
+    },
+    {
+      "firstName": "Gábor",
+      "lastName": "Fekete",
+      "id": 20
+    },
+    {
+      "firstName": "Györgyi ",
+      "lastName": "Stenger",
+      "id": 21
+    },
+    {
+      "firstName": "Péter",
+      "lastName": "Munkácsi",
+      "id": 22
+    },
+    {
+      "firstName": "Zsuzsanna",
+      "lastName": "Corridori",
+      "id": 23
+    },
+    {
+      "firstName": "Dorka",
+      "lastName": "Vannai",
+      "id": 24
+    },
+    {
+      "firstName": "Réka",
+      "lastName": " ",
+      "id": 25
+    },
+    {
+      "firstName": "Joanna",
+      "lastName": " ",
+      "id": 26
+    },
+    {
+      "firstName": "Zsolt",
+      "lastName": "  ",
+      "id": 29
+    },
+    {
+      "firstName": "Zsolt",
+      "lastName": "_",
+      "id": 30
+    },
+    {
+      "firstName": "Bettina",
+      "lastName": " ",
+      "id": 31
+    },
+    {
+      "firstName": "Jackie",
+      "lastName": "Das",
+      "id": 32
+    },
+    {
+      "firstName": "Gergo",
+      "lastName": "Sloboda",
+      "id": 33
+    },
+    {
+      "firstName": "Gábor",
+      "lastName": " ",
+      "id": 34
+    },
+    {
+      "firstName": "Eszter",
+      "lastName": " ",
+      "id": 35
+    },
+    {
+      "firstName": "Steven",
+      "lastName": " ",
+      "id": 36
+    },
+    {
+      "firstName": "Eszter",
+      "lastName": "Tóth",
+      "id": 37
+    }
+  ]
+}

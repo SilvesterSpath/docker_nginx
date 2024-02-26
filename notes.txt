@@ -1,0 +1,17 @@
+working images from _Dockerfile.old.txt:
+  760528/toastmaster:v1.0
+   container name: inspiring_banach
+   container id: 5b82d2a1735460a467ea59a01b4a135fbcda09a2b0aef77c0583103595065b52
+
+  from _Dockerfile.01.txt
+   toastmaster-timer2:latests
+    container name: sharp_northcutt
+    container id: a5a723e937c6b3a350ea23e8d1795666c5c87c3857213257670bc8e8df66f79
+
+  
+
+
+Errors:
+    Error: 'Error saving credentials: error storing credentials - err: exit status 1, out:'
+    Solution: rm -rf ~/.docker
+              docker login

@@ -1,0 +1,13 @@
+:root {
+  --primary-color: rgb(185, 204, 192);
+  --secondary-color: rgb(233, 255, 245);
+}
+
+body {
+  background-color: var(--primary-color);
+  color: rgb(17, 82, 28) !important;
+}
+
+.collection-item {
+  background-color: var(--secondary-color) !important;
+}
